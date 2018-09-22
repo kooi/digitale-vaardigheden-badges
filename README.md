@@ -1,5 +1,7 @@
 # digitale-vaardigheden-badges
-Badge designs for use with moodle.
+Badge designs for achievement-badges in a K-6 computing course.
+
+Currently there are a number of badge designs, some based on vector-based logo's (Word, Excel, Powerpoint), others (python turtle) generated programmatically.
 
 Badges voor de indicatie van digitale vaardigheden. Deze zijn ontworpen voor gebruik in moodle maar zijn svg-bestanden ontworpen in inkscape die standaard 400x400 px material design gestileerde badges rendert.
 
