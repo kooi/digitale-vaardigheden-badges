@@ -1,0 +1,11 @@
+L0 (red 700)
+background-color: #d32f2f
+text-color:       #9a0007
+
+L1 (blue 300)
+background-color: #64b5f6
+text-color:       #2286c3
+
+L2 (green 500)
+background-color: #4caf50
+text-color:       #087f23
